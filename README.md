@@ -1,4 +1,4 @@
-# Demo - Dapp Voting Contract on Ethereum
+# Demo - Dapp Voting Contract On Ethereum
 
 Simple application composed by a web page that calls an Ethereum contract to simulate a simple voting scenario.
 The web application uses a JS library to interact with a local Ethereum node ([Ganache](http://truffleframework.com/ganache/))
@@ -30,7 +30,7 @@ contractInstance = VotingContract.at('ADDRESS_OF_DEPLOYED_CONTRACT');
 
 This is required as the javascript must know which is the corret contract to call.
 
-## Use it
+## Try it
 
 Open *index.html* in a web browser and insert the name of one of the partecipants. The voting counter must increase by **1**.
 

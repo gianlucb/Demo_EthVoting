@@ -8,7 +8,7 @@ The web application uses a JS library to interact with a local Ethereum node ([G
 
 The solution is composed by:
 
-- the **voting** contract (*/contract/DemoEthVoting*)
+- the **voting** contract (*/contract/DemoEthVoting.sol*)
 - some **tests** (*/test/voting-test.js*)
 - a web page and javascript file (*/web*)
 

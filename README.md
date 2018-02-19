@@ -1,4 +1,4 @@
-# Demo Dapp - Voting Contract on Ethereum
+# Demo - Dapp Voting Contract on Ethereum
 
 Simple application composed by a web page that calls an Ethereum contract to simulate a simple voting scenario.
 The web application uses a JS library to interact with a local Ethereum node ([Ganache](http://truffleframework.com/ganache/))
